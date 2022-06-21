@@ -1,0 +1,493 @@
+2022-05-30T23:43:26.313Z [petshop-api] info GET /proprietario
+2022-05-30T23:43:33.508Z [petshop-api] error GET  - relation "clients" does not exist
+2022-05-30T23:43:43.447Z [petshop-api] error POST  - Unexpected token , in JSON at position 10
+2022-05-30T23:46:00.993Z [petshop-api] error PUT  - Unexpected token , in JSON at position 21
+2022-05-30T23:46:10.527Z [petshop-api] error PUT  - Unexpected token , in JSON at position 33
+2022-05-30T23:46:50.312Z [petshop-api] error PUT  - Unexpected token } in JSON at position 58
+2022-05-30T23:47:00.353Z [petshop-api] error PUT  - column "name" of relation "proprietarios" does not exist
+2022-05-30T23:47:21.731Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-05-30T23:53:23.773Z [petshop-api] info GET /proprietario
+2022-05-30T23:53:32.966Z [petshop-api] error GET  - relation "clients" does not exist
+2022-05-30T23:55:11.906Z [petshop-api] info GET /proprietario
+2022-05-30T23:55:28.061Z [petshop-api] info DELETE /proprietario
+2022-05-30T23:55:37.374Z [petshop-api] info GET /proprietario
+2022-05-31T02:20:27.149Z [petshop-api] info GET /animais
+2022-05-31T02:20:39.207Z [petshop-api] info GET /animal
+2022-05-31T02:32:09.182Z [petshop-api] info DELETE /proprietario
+2022-05-31T02:32:26.009Z [petshop-api] info DELETE /animal
+2022-05-31T02:32:41.337Z [petshop-api] info GET /animais
+2022-05-31T02:41:56.198Z [petshop-api] info GET /animalprop
+2022-05-31T02:42:09.049Z [petshop-api] info GET /animalprop
+2022-05-31T02:42:20.516Z [petshop-api] info GET /animalprop
+2022-05-31T02:42:28.300Z [petshop-api] info GET /animalprop
+2022-05-31T02:42:34.853Z [petshop-api] info GET /animalprop
+2022-05-31T02:42:40.484Z [petshop-api] info GET /animalprop
+2022-05-31T02:42:46.935Z [petshop-api] info GET /animalprop
+2022-05-31T03:03:24.154Z [petshop-api] info GET /animalprop
+2022-05-31T03:04:47.631Z [petshop-api] error POST  - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function insertAnimal
+2022-05-31T03:05:31.750Z [petshop-api] error POST  - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function insertAnimal
+2022-05-31T03:14:36.416Z [petshop-api] info POST /animal - {"animal_id":10,"nome":"Totó","tipo":"Cachorro","proprietario_id":6}
+2022-05-31T03:15:13.256Z [petshop-api] info GET /animalprop
+2022-05-31T03:15:48.071Z [petshop-api] info GET /animalprop
+2022-05-31T03:16:58.727Z [petshop-api] info GET /proprietario
+2022-05-31T03:18:47.067Z [petshop-api] info GET /animal
+2022-05-31T03:19:36.220Z [petshop-api] info GET /proprietario
+2022-05-31T03:21:02.454Z [petshop-api] info DELETE /animal
+2022-05-31T03:21:12.066Z [petshop-api] info GET /animais
+2022-05-31T03:21:54.047Z [petshop-api] info GET /animalprop
+2022-05-31T03:31:07.630Z [petshop-api] info GET /proprietario
+2022-05-31T21:33:39.070Z [petshop-api] info GET /animais
+2022-05-31T21:33:57.313Z [petshop-api] error DELETE  - Este proprietário tem animais e não pode ser deletado
+2022-05-31T21:34:27.760Z [petshop-api] info GET /proprietario
+2022-05-31T21:34:41.584Z [petshop-api] info GET /animalprop
+2022-05-31T21:34:47.011Z [petshop-api] info GET /animalprop
+2022-05-31T21:34:53.461Z [petshop-api] info GET /animalprop
+2022-05-31T21:35:00.526Z [petshop-api] info GET /animalprop
+2022-05-31T21:35:05.647Z [petshop-api] info GET /animalprop
+2022-05-31T21:35:10.564Z [petshop-api] info GET /animalprop
+2022-05-31T21:36:22.276Z [petshop-api] info PUT /animal - {"animal_id":5,"nome":"Lulu","tipo":"Cachorro","proprietario_id":2}
+2022-05-31T21:36:33.916Z [petshop-api] info GET /animalprop
+2022-05-31T21:36:44.410Z [petshop-api] error DELETE  - Este proprietário tem animais e não pode ser deletado
+2022-05-31T21:38:19.514Z [petshop-api] error DELETE  - Este proprietário tem animais e não pode ser deletado[object Promise]
+2022-05-31T21:42:39.610Z [petshop-api] error DELETE  - Este proprietário tem animais e não pode ser deletado[object Promise]
+2022-05-31T21:44:50.749Z [petshop-api] error DELETE  - Este proprietário tem animais e não pode ser deletado[object Promise]
+2022-05-31T21:44:57.071Z [petshop-api] error DELETE  - Este proprietário tem animais e não pode ser deletado[object Promise]
+2022-05-31T21:45:36.682Z [petshop-api] error DELETE  - Este proprietário tem animais e não pode ser deletado[object Promise]
+2022-05-31T21:46:04.714Z [petshop-api] error DELETE  - Este proprietário tem animais e não pode ser deletado[object Object],[object Object],[object Object]
+2022-05-31T21:52:14.333Z [petshop-api] error DELETE  - [object Object]
+2022-05-31T21:52:43.623Z [petshop-api] error DELETE  - [object Object]
+2022-05-31T21:53:25.350Z [petshop-api] error DELETE  - invalid input syntax for type integer: "NaN"
+2022-05-31T21:54:41.043Z [petshop-api] error DELETE  - invalid input syntax for type integer: "NaN"
+2022-05-31T21:54:46.913Z [petshop-api] error DELETE  - invalid input syntax for type integer: "NaN"
+2022-05-31T21:57:05.357Z [petshop-api] error DELETE  - [object Object]
+2022-05-31T21:57:51.191Z [petshop-api] error DELETE  - [object Object]
+2022-05-31T21:58:43.894Z [petshop-api] error DELETE  - [object Object]
+2022-05-31T21:59:50.250Z [petshop-api] error DELETE  - [object Object]
+2022-05-31T22:00:55.681Z [petshop-api] error DELETE  - [object Object]
+2022-05-31T22:03:02.989Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-05-31T22:03:47.955Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-05-31T22:04:52.177Z [petshop-api] error DELETE  - animaispro is not defined
+2022-05-31T22:05:11.348Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-05-31T22:05:36.291Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-05-31T22:10:43.648Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-05-31T22:12:19.484Z [petshop-api] error DELETE  - Invalid status code: 3
+2022-05-31T22:13:08.058Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-05-31T22:15:11.524Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-04T17:23:22.450Z [petshop-api] info GET /proprietario
+2022-06-04T17:23:51.502Z [petshop-api] info GET /animais
+2022-06-04T17:24:14.847Z [petshop-api] info GET /animal
+2022-06-04T17:24:23.039Z [petshop-api] info GET /animal
+2022-06-04T17:24:59.290Z [petshop-api] info GET /proprietario
+2022-06-04T17:26:30.568Z [petshop-api] error POST  - ProprietarioRepository.insertClient is not a function
+2022-06-04T17:29:27.707Z [petshop-api] info POST /proprietario - {"nome":"Maria Lacerda","phone":"(28) 97432-0000"}
+2022-06-04T17:31:10.324Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-04T17:31:43.249Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-04T17:31:50.703Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-04T17:32:00.610Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-04T17:32:21.763Z [petshop-api] error POST  - insert or update on table "animais" violates foreign key constraint "fk_proprietarios"
+2022-06-04T17:32:45.214Z [petshop-api] info POST /animal - {"animal_id":12,"nome":"Pitico","tipo":"gato","proprietario_id":7}
+2022-06-04T17:32:59.037Z [petshop-api] info GET /proprietario
+2022-06-04T17:34:55.062Z [petshop-api] error DELETE  - Invalid status code: 68
+2022-06-04T17:39:54.584Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-04T17:40:16.290Z [petshop-api] info POST /proprietario - {"nome":"Maria Lacerda","phone":"(28) 97432-0000"}
+2022-06-04T17:40:29.704Z [petshop-api] info GET /proprietario
+2022-06-04T17:40:38.204Z [petshop-api] info POST /proprietario - {"nome":"Maria Lacerda","phone":"(28) 97432-0000"}
+2022-06-04T17:40:42.093Z [petshop-api] info POST /animal - {"animal_id":13,"nome":"Pitico","tipo":"gato","proprietario_id":7}
+2022-06-04T17:40:54.485Z [petshop-api] info GET /animais
+2022-06-04T17:41:05.954Z [petshop-api] info GET /proprietario
+2022-06-04T17:41:55.207Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-04T17:42:02.582Z [petshop-api] info GET /proprietario
+2022-06-04T17:55:18.953Z [petshop-api] info GET /animalprop
+2022-06-04T21:54:18.260Z [petshop-api] info GET /proprietario
+2022-06-04T21:54:26.766Z [petshop-api] info GET /proprietario
+2022-06-04T21:58:42.194Z [petshop-api] info GET /proprietario
+2022-06-04T21:58:50.155Z [petshop-api] info GET /proprietario
+2022-06-04T21:58:56.093Z [petshop-api] info GET /proprietario
+2022-06-04T21:59:06.408Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading 'lenght')
+2022-06-04T21:59:25.690Z [petshop-api] info POST /proprietario - {"nome":"Maria Silva","phone":"(28) 97432-0000"}
+2022-06-04T22:13:16.066Z [petshop-api] info GET /animais
+2022-06-04T22:13:47.045Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading 'lenght')
+2022-06-04T22:15:00.229Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading 'lenght')
+2022-06-04T22:25:46.785Z [petshop-api] info GET /proprietario
+2022-06-04T22:26:04.474Z [petshop-api] error DELETE  - Este Proprietário possue animais cadastrados e não pode ser excluido
+2022-06-04T22:26:19.321Z [petshop-api] info GET /proprietario
+2022-06-04T22:26:32.540Z [petshop-api] error DELETE  - Este Proprietário possue animais cadastrados e não pode ser excluido
+2022-06-04T22:26:47.379Z [petshop-api] info GET /proprietario
+2022-06-04T22:26:59.976Z [petshop-api] info GET /proprietario
+2022-06-04T22:27:26.809Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-04T22:27:56.470Z [petshop-api] error DELETE  - Este Proprietário possue animais cadastrados e não pode ser excluido
+2022-06-04T22:28:03.196Z [petshop-api] error DELETE  - Este Proprietário possue animais cadastrados e não pode ser excluido
+2022-06-04T22:28:13.294Z [petshop-api] info GET /proprietario
+2022-06-04T22:28:29.404Z [petshop-api] error DELETE  - Este Proprietário possue animais cadastrados e não pode ser excluido
+2022-06-04T22:30:24.378Z [petshop-api] info DELETE /proprietario
+2022-06-04T22:30:37.993Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-04T22:46:09.846Z [petshop-api] error GET  - column animais.poprietarioId does not exist
+2022-06-04T22:46:54.384Z [petshop-api] info GET /proprietario
+2022-06-04T22:47:12.505Z [petshop-api] info GET /animal
+2022-06-04T22:47:20.389Z [petshop-api] info GET /animal
+2022-06-04T22:50:58.016Z [petshop-api] info GET /animal
+2022-06-04T22:51:15.405Z [petshop-api] error GET  - column animais.proprietario does not exist
+2022-06-04T22:52:05.220Z [petshop-api] info GET /animalprop
+2022-06-04T22:52:51.044Z [petshop-api] info DELETE /animal
+2022-06-04T22:53:18.591Z [petshop-api] info GET /animais
+2022-06-04T22:53:33.026Z [petshop-api] error DELETE  - Este Proprietário possue animais cadastrados e não pode ser excluido
+2022-06-04T22:54:11.838Z [petshop-api] info POST /proprietario - {"nome":"Suzane Maia","phone":"(28) 97432-0000"}
+2022-06-04T22:54:24.430Z [petshop-api] error DELETE  - Este Proprietário possue animais cadastrados e não pode ser excluido
+2022-06-04T22:55:53.013Z [petshop-api] info DELETE /proprietario
+2022-06-04T22:56:06.532Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-04T22:59:17.821Z [petshop-api] error DELETE  - Este Proprietário possue animais cadastrados e não pode ser excluido
+2022-06-04T22:59:32.044Z [petshop-api] error DELETE  - Este Proprietário possue animais cadastrados e não pode ser excluido
+2022-06-04T22:59:39.314Z [petshop-api] error DELETE  - Este Proprietário possue animais cadastrados e não pode ser excluido
+2022-06-04T22:59:49.250Z [petshop-api] info GET /proprietario
+2022-06-04T23:39:49.631Z [petshop-api] error POST  - O Proprietário informado não está cadastrado
+2022-06-04T23:49:26.374Z [petshop-api] info GET /proprietario
+2022-06-04T23:50:02.799Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-04T23:54:17.480Z [petshop-api] error PUT  - WHERE parameter "proprietario_id" has invalid "undefined" value
+2022-06-04T23:56:19.660Z [petshop-api] info PUT /proprietario - {"proprietarioId":7,"nome":"Maria C Lacerda","phone":"(28) 97432-0000"}
+2022-06-04T23:56:38.789Z [petshop-api] info PUT /proprietario - null
+2022-06-04T23:58:03.270Z [petshop-api] error POST  - O Proprietário informado não está cadastrado
+2022-06-04T23:58:35.651Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-04T23:58:47.069Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-04T23:58:48.446Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-04T23:59:07.286Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-04T23:59:43.010Z [petshop-api] info GET /animal
+2022-06-05T00:00:14.359Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:00:25.895Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:00:42.429Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:00:52.866Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:01:33.572Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:02:09.149Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:03:20.995Z [petshop-api] error POST  - O Proprietário informado não está cadastrado
+2022-06-05T00:03:27.990Z [petshop-api] error POST  - O Proprietário informado não está cadastrado
+2022-06-05T00:03:41.672Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-05T00:03:52.569Z [petshop-api] info GET /proprietario
+2022-06-05T00:04:15.377Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:06:29.608Z [petshop-api] error POST  - O Proprietário informado não está cadastrado
+2022-06-05T00:06:38.856Z [petshop-api] info GET /proprietario
+2022-06-05T00:07:02.709Z [petshop-api] error POST  - O Proprietário informado não está cadastrado
+2022-06-05T00:07:13.271Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-05T00:07:20.955Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-05T00:07:26.058Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-05T00:07:32.296Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-05T00:09:07.146Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-05T00:09:14.105Z [petshop-api] error POST  - O Proprietário informado não está cadastrado
+2022-06-05T00:09:20.239Z [petshop-api] error POST  - O Proprietário informado não está cadastrado
+2022-06-05T00:09:29.067Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-05T00:09:38.397Z [petshop-api] error POST  - O Proprietário informado não está cadastrado
+2022-06-05T00:10:17.290Z [petshop-api] error POST  - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-05T00:11:42.067Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:11:56.340Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:12:04.235Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:12:17.703Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:12:22.068Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:12:37.578Z [petshop-api] info GET /animal
+2022-06-05T00:13:04.405Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:13:15.060Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:13:23.348Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:13:26.575Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:14:53.074Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:16:59.892Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:17:14.164Z [petshop-api] info GET /animal
+2022-06-05T00:17:57.750Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:18:16.935Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-05T00:19:00.974Z [petshop-api] info PUT /animal - {"animalId":8,"nome":"Emmy","tipo":"Cachorro","proprietarioId":5}
+2022-06-05T00:19:42.944Z [petshop-api] error POST  - O Proprietário informado não está cadastrado
+2022-06-05T00:19:51.449Z [petshop-api] error POST  - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-05T00:20:12.198Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-05T00:20:22.199Z [petshop-api] error POST  - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-05T00:21:44.699Z [petshop-api] info GET /proprietario
+2022-06-05T00:21:57.292Z [petshop-api] error POST  - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-05T00:24:01.913Z [petshop-api] info GET /proprietario
+2022-06-05T00:24:35.707Z [petshop-api] info PUT /proprietario - null
+2022-06-05T00:24:45.436Z [petshop-api] info PUT /proprietario - {"proprietarioId":2,"nome":"Maria C Lacerda","phone":"(28) 97432-0000"}
+2022-06-05T00:27:50.372Z [petshop-api] info PUT /proprietario - {"proprietarioId":2,"nome":"Maria Lacerda","phone":"(28) 97432-0000"}
+2022-06-05T00:28:12.490Z [petshop-api] info PUT /animal - {"animalId":8,"nome":"Emmy","tipo":"Gato","proprietarioId":5}
+2022-06-05T00:28:30.307Z [petshop-api] error POST  - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-05T00:28:41.340Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-05T00:28:51.607Z [petshop-api] error POST  - null value in column "proprietario_id" of relation "animais" violates not-null constraint
+2022-06-05T00:32:15.815Z [petshop-api] info POST /animal - {"animalId":20,"nome":"Juju","tipo":"gato","proprietario_id":7}
+2022-06-05T00:32:47.545Z [petshop-api] info GET /animais
+2022-06-05T00:33:48.876Z [petshop-api] info POST /animal - {"animalId":21,"nome":"Juju","tipo":"gato","proprietario_id":7}
+2022-06-05T00:34:02.292Z [petshop-api] info DELETE /animal
+2022-06-05T00:34:06.898Z [petshop-api] info DELETE /animal
+2022-06-05T00:34:14.480Z [petshop-api] info GET /animais
+2022-06-05T00:34:29.938Z [petshop-api] info GET /proprietario
+2022-06-05T00:34:35.572Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T00:34:59.433Z [petshop-api] info GET /proprietario
+2022-06-05T00:35:07.801Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T00:39:51.796Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T00:41:36.552Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T00:42:11.155Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T00:42:17.608Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T00:42:44.745Z [petshop-api] info GET /animais
+2022-06-05T00:43:17.816Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T00:45:54.393Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-05T01:47:30.044Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T01:48:12.745Z [petshop-api] info GET /proprietario
+2022-06-05T01:48:47.860Z [petshop-api] info GET /proprietario
+2022-06-05T01:49:00.046Z [petshop-api] info GET /proprietario
+2022-06-05T01:49:14.282Z [petshop-api] info GET /animal
+2022-06-05T01:49:45.105Z [petshop-api] info GET /animais
+2022-06-05T01:50:14.185Z [petshop-api] info DELETE /animal
+2022-06-05T01:50:46.134Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T02:04:17.698Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T02:04:33.875Z [petshop-api] info GET /proprietario
+2022-06-05T02:04:59.569Z [petshop-api] error DELETE  - column animais.proprietarioId does not exist
+2022-06-05T02:05:18.410Z [petshop-api] error GET  - column animais.proprietarioId does not exist
+2022-06-05T02:06:15.166Z [petshop-api] info GET /animalprop
+2022-06-05T02:06:22.106Z [petshop-api] info DELETE /proprietario
+2022-06-05T02:06:48.115Z [petshop-api] info GET /proprietario
+2022-06-05T02:07:02.861Z [petshop-api] info DELETE /proprietario
+2022-06-05T02:07:09.619Z [petshop-api] info GET /proprietario
+2022-06-05T02:07:52.937Z [petshop-api] info POST /proprietario - {"nome":"Suzane Maia","phone":"(28) 97432-0000"}
+2022-06-05T02:08:02.971Z [petshop-api] info GET /proprietario
+2022-06-05T02:08:30.516Z [petshop-api] info DELETE /proprietario
+2022-06-05T02:08:34.919Z [petshop-api] info GET /proprietario
+2022-06-05T02:10:38.114Z [petshop-api] info DELETE /proprietario
+2022-06-05T02:10:43.128Z [petshop-api] info GET /proprietario
+2022-06-05T02:10:49.884Z [petshop-api] info GET /proprietario
+2022-06-05T02:11:05.757Z [petshop-api] info GET /animais
+2022-06-05T02:11:22.856Z [petshop-api] info DELETE /proprietario
+2022-06-05T02:11:36.987Z [petshop-api] info GET /proprietario
+2022-06-05T02:12:50.817Z [petshop-api] info GET /animalprop
+2022-06-05T02:14:05.499Z [petshop-api] info DELETE /proprietario
+2022-06-05T02:20:11.782Z [petshop-api] info GET /animalprop
+2022-06-05T02:20:28.590Z [petshop-api] error DELETE  - O Proprietário possui animais
+2022-06-05T02:20:44.731Z [petshop-api] info GET /proprietario
+2022-06-05T02:20:50.773Z [petshop-api] info GET /proprietario
+2022-06-05T02:21:13.404Z [petshop-api] info POST /proprietario - {"nome":"Pedro Assis","phone":"(28) 97432-0000"}
+2022-06-05T02:21:27.329Z [petshop-api] info GET /animalprop
+2022-06-05T02:21:37.871Z [petshop-api] error DELETE  - O Proprietário possui animais
+2022-06-05T02:21:40.557Z [petshop-api] error DELETE  - O Proprietário possui animais
+2022-06-05T02:23:50.897Z [petshop-api] error DELETE  - O Proprietário possui animais
+2022-06-05T02:24:33.372Z [petshop-api] error DELETE  - O Proprietário possui animais
+2022-06-05T02:24:52.957Z [petshop-api] error DELETE  - O Proprietário possui animais
+2022-06-05T11:57:34.127Z [petshop-api] info GET /animais
+2022-06-05T11:59:30.021Z [petshop-api] info GET /animais
+2022-06-05T11:59:38.927Z [petshop-api] info GET /animais
+2022-06-05T12:00:07.394Z [petshop-api] info GET /animais
+2022-06-05T12:05:43.280Z [petshop-api] info GET /animais
+2022-06-05T12:06:16.145Z [petshop-api] error GET  - invalid input syntax for type integer: "animal"
+2022-06-05T12:06:29.248Z [petshop-api] info GET /animais
+2022-06-05T12:06:43.894Z [petshop-api] info GET /animais
+2022-06-05T12:07:33.863Z [petshop-api] info GET /proprietario
+2022-06-05T12:07:41.130Z [petshop-api] info GET /proprietario
+2022-06-05T12:08:35.818Z [petshop-api] error GET  - Este proprietário não está cadastrado
+2022-06-05T12:10:34.810Z [petshop-api] error GET  - res is not defined
+2022-06-05T12:11:06.761Z [petshop-api] error GET  - undefined
+2022-06-05T12:11:27.143Z [petshop-api] error GET  - Element is not defined
+2022-06-05T12:12:04.415Z [petshop-api] error GET  - Este proprietário não está cadastrado
+2022-06-05T12:20:44.656Z [petshop-api] error DELETE  - Este proprietário possui animais e não pode ser excluido
+2022-06-05T12:22:14.409Z [petshop-api] info GET /animais
+2022-06-05T12:23:37.364Z [petshop-api] error DELETE  - Este proprietário possui animais e não pode ser excluido
+2022-06-06T00:43:10.853Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T00:43:26.036Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T00:44:07.599Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T00:44:34.186Z [petshop-api] info GET /animais
+2022-06-06T00:44:40.945Z [petshop-api] info GET /animais
+2022-06-06T00:45:16.392Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-06T00:45:31.424Z [petshop-api] error DELETE  - Este proprietário possui animais e não pode ser excluido
+2022-06-06T00:45:43.510Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-06T00:51:00.992Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading 'lenght')
+2022-06-06T00:51:45.100Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T00:51:50.364Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T00:52:29.270Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T00:52:43.950Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T00:53:09.158Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T00:53:36.224Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T18:59:09.448Z [petshop-api] info DELETE /proprietario
+2022-06-06T18:59:37.253Z [petshop-api] info DELETE /proprietario
+2022-06-06T18:59:56.849Z [petshop-api] info GET /proprietario
+2022-06-06T19:00:10.354Z [petshop-api] info GET /proprietario
+2022-06-06T19:00:18.837Z [petshop-api] info GET /proprietario
+2022-06-06T19:00:35.620Z [petshop-api] info POST /proprietario - {"nome":"Pedro Assis","phone":"(28) 97432-0000"}
+2022-06-06T19:00:48.622Z [petshop-api] info DELETE /proprietario
+2022-06-06T19:00:55.389Z [petshop-api] info GET /proprietario
+2022-06-06T19:10:52.511Z [petshop-api] info DELETE /proprietario
+2022-06-06T19:12:00.886Z [petshop-api] info DELETE /proprietario
+2022-06-06T19:29:42.090Z [petshop-api] info GET /animais
+2022-06-06T19:33:01.128Z [petshop-api] info GET /animais
+2022-06-06T19:33:50.721Z [petshop-api] info GET /animais
+2022-06-06T19:38:50.186Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T19:38:58.197Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T19:39:31.789Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T19:40:43.602Z [petshop-api] info GET /animais
+2022-06-06T19:41:54.200Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T19:42:32.437Z [petshop-api] info GET /animais
+2022-06-06T19:43:33.089Z [petshop-api] info GET /animais
+2022-06-06T19:43:51.810Z [petshop-api] info GET /animais
+2022-06-06T19:44:33.682Z [petshop-api] info GET /animais
+2022-06-06T19:44:57.755Z [petshop-api] error GET  - Invalid status code: 3
+2022-06-06T19:46:26.637Z [petshop-api] info GET /animais
+2022-06-06T19:46:44.763Z [petshop-api] error GET  - Invalid status code: 3
+2022-06-06T19:48:00.956Z [petshop-api] info GET /animais
+2022-06-06T19:50:50.667Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T19:50:56.592Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T19:51:18.157Z [petshop-api] info GET /animais
+2022-06-06T19:53:08.870Z [petshop-api] info GET /animais
+2022-06-06T19:56:57.011Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T19:57:32.026Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T19:58:02.729Z [petshop-api] error DELETE  - Cannot read properties of undefined (reading '0')
+2022-06-06T19:59:22.413Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T19:59:33.189Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-06T19:59:45.367Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T19:59:51.739Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T19:59:54.178Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T20:01:28.976Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T20:01:34.723Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2022-06-06T20:01:50.560Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T20:01:58.001Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T20:29:28.772Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T20:41:00.788Z [petshop-api] info GET /animais
+2022-06-06T20:41:04.270Z [petshop-api] info GET /animais
+2022-06-06T20:41:24.338Z [petshop-api] info GET /animais
+2022-06-06T20:42:52.916Z [petshop-api] info GET /animais
+2022-06-06T20:44:04.904Z [petshop-api] info GET /animais
+2022-06-06T20:44:48.731Z [petshop-api] info GET /animais
+2022-06-06T21:26:01.828Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T21:28:11.267Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T21:28:20.038Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T21:28:21.799Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T21:29:15.766Z [petshop-api] info GET /animais
+2022-06-06T21:29:27.646Z [petshop-api] info GET /animais
+2022-06-06T21:35:08.547Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-06T21:35:14.274Z [petshop-api] info DELETE /proprietario
+2022-06-06T21:35:27.891Z [petshop-api] info GET /proprietario
+2022-06-07T11:45:55.573Z [petshop-api] info GET /proprietario
+2022-06-07T11:46:28.106Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T11:46:40.601Z [petshop-api] info PUT /proprietario - {"proprietarioId":2,"nome":"Pedro Lacerda","phone":"(28) 97259-0000"}
+2022-06-07T11:47:01.190Z [petshop-api] info POST /proprietario - {"nome":"Juca","phone":"(28) 97432-0000"}
+2022-06-07T11:47:06.917Z [petshop-api] info GET /proprietario
+2022-06-07T11:47:12.041Z [petshop-api] info GET /proprietario
+2022-06-07T11:47:21.668Z [petshop-api] info DELETE /proprietario
+2022-06-07T11:52:10.648Z [petshop-api] error DELETE  - Este proprietário não existe no sistema.
+2022-06-07T11:52:22.930Z [petshop-api] error DELETE  - Este proprietário não pode ser deletado pois possui animais
+2022-06-07T11:52:29.380Z [petshop-api] error DELETE  - Este proprietário não existe no sistema.
+2022-06-07T11:52:49.864Z [petshop-api] info POST /proprietario - {"nome":"Juca","phone":"(28) 97432-0000"}
+2022-06-07T11:52:57.775Z [petshop-api] error DELETE  - Este proprietário não existe no sistema.
+2022-06-07T11:53:17.103Z [petshop-api] info GET /proprietario
+2022-06-07T11:53:35.122Z [petshop-api] info GET /proprietario
+2022-06-07T11:54:30.027Z [petshop-api] info DELETE /proprietario
+2022-06-07T11:54:39.637Z [petshop-api] info GET /proprietario
+2022-06-07T11:54:49.157Z [petshop-api] info DELETE /proprietario
+2022-06-07T11:54:56.427Z [petshop-api] info GET /proprietario
+2022-06-07T11:55:01.445Z [petshop-api] info GET /proprietario
+2022-06-07T11:55:06.668Z [petshop-api] info GET /proprietario
+2022-06-07T11:55:11.796Z [petshop-api] info GET /proprietario
+2022-06-07T12:07:45.871Z [petshop-api] info GET /animais
+2022-06-07T12:07:54.781Z [petshop-api] info POST /animal - {"animalId":22,"nome":"Juju","tipo":"gato","proprietario_id":7}
+2022-06-07T12:08:15.771Z [petshop-api] info PUT /animal - {"animalId":8,"nome":"Emmy","tipo":"Gato","proprietario_id":3}
+2022-06-07T12:08:23.551Z [petshop-api] error PUT  - O Proprietário informado não está cadastrado
+2022-06-07T12:08:37.375Z [petshop-api] error PUT  - O Proprietário informado não está cadastrado
+2022-06-07T12:08:48.027Z [petshop-api] info PUT /animal - {"animalId":3,"nome":"Emmy","tipo":"Gato","proprietario_id":3}
+2022-06-07T12:09:02.263Z [petshop-api] info GET /animais
+2022-06-07T12:09:17.415Z [petshop-api] info PUT /animal - {"animalId":4,"nome":"Emmy","tipo":"Gato","proprietario_id":3}
+2022-06-07T12:09:26.328Z [petshop-api] info GET /animais
+2022-06-07T12:14:25.850Z [petshop-api] error PUT  - O animal_id não pode ser atualizado
+2022-06-07T12:14:42.131Z [petshop-api] info GET /animal
+2022-06-07T13:36:19.284Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-07T13:37:27.042Z [petshop-api] error POST  - O animal informado não está cadastrado
+2022-06-07T13:37:43.939Z [petshop-api] info GET /animal
+2022-06-07T13:38:21.932Z [petshop-api] error POST  - null value in column "animal_id" of relation "servicos" violates not-null constraint
+2022-06-07T13:39:04.283Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-07T13:39:22.445Z [petshop-api] error POST  - null value in column "animal_id" of relation "servicos" violates not-null constraint
+2022-06-07T13:39:55.316Z [petshop-api] error POST  - null value in column "animal_id" of relation "servicos" violates not-null constraint
+2022-06-07T13:44:26.188Z [petshop-api] info POST /servico - {"servicoId":4,"descricao":"Banho e tosa","valor":35,"animal_id":5}
+2022-06-07T13:49:56.718Z [petshop-api] info POST /servico - {"servicoId":5,"descricao":"Tosa","valor":20.22,"animal_id":3}
+2022-06-07T13:52:14.804Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T13:53:26.324Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T13:54:07.094Z [petshop-api] error PUT  - O campo service_id não pode ser atualizado
+2022-06-07T13:55:25.321Z [petshop-api] info PUT /servico - null
+2022-06-07T13:57:44.702Z [petshop-api] info PUT /servico - null
+2022-06-07T13:59:19.328Z [petshop-api] info POST /servico - {"servicoId":6,"descricao":"Tosa","valor":45.22,"animal_id":8}
+2022-06-07T14:00:30.416Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T14:00:42.559Z [petshop-api] error PUT  - O campo service_id não pode ser atualizado
+2022-06-07T14:01:18.825Z [petshop-api] info PUT /servico - {"servicoId":6,"descricao":"Banho e Tosa","valor":45.22,"animal_id":8}
+2022-06-07T14:01:47.381Z [petshop-api] info PUT /servico - {"servicoId":5,"descricao":"Banho e Tosa","valor":45.22,"animal_id":8}
+2022-06-07T14:13:46.556Z [petshop-api] info GET /servicos
+2022-06-07T14:15:51.470Z [petshop-api] info GET /servico
+2022-06-07T14:16:47.584Z [petshop-api] info GET /servicos
+2022-06-07T14:17:01.205Z [petshop-api] info GET /servico
+2022-06-07T14:17:06.735Z [petshop-api] info GET /servico
+2022-06-07T14:17:21.788Z [petshop-api] info PUT /servico - {"servicoId":5,"descricao":"Tosa","valor":45.22,"animal_id":8}
+2022-06-07T14:17:25.885Z [petshop-api] info GET /servicos
+2022-06-07T14:17:35.510Z [petshop-api] info GET /servico
+2022-06-07T14:18:16.881Z [petshop-api] info GET /animais
+2022-06-07T14:18:33.266Z [petshop-api] info GET /animais
+2022-06-07T14:19:06.238Z [petshop-api] info GET /servicos
+2022-06-07T14:19:20.983Z [petshop-api] info GET /servicos
+2022-06-07T14:19:28.878Z [petshop-api] info GET /servicos
+2022-06-07T14:42:31.511Z [petshop-api] info GET /animal
+2022-06-07T14:42:40.467Z [petshop-api] error GET  - proprietarios is not associated to servicos!
+2022-06-07T14:42:59.238Z [petshop-api] info GET /servicos
+2022-06-07T14:43:36.920Z [petshop-api] info GET /animais
+2022-06-07T14:44:00.678Z [petshop-api] info GET /servicos
+2022-06-07T14:44:22.899Z [petshop-api] info GET /servicos
+2022-06-07T14:44:52.499Z [petshop-api] error GET  - proprietarios is not associated to servicos!
+2022-06-07T14:52:08.167Z [petshop-api] error GET  - proprietarios is not associated to servicos!
+2022-06-07T14:52:26.038Z [petshop-api] info GET /servicos
+2022-06-07T14:54:03.191Z [petshop-api] error GET  - proprietarios is not associated to servicos!
+2022-06-07T14:54:14.583Z [petshop-api] info GET /servicos
+2022-06-07T14:54:31.207Z [petshop-api] error GET  - proprietarios is not associated to servicos!
+2022-06-07T14:54:49.677Z [petshop-api] error GET  - proprietarios is not associated to servicos!
+2022-06-07T14:57:43.499Z [petshop-api] info GET /servicos
+2022-06-07T14:58:06.306Z [petshop-api] info GET /servicos
+2022-06-07T15:01:42.788Z [petshop-api] error GET  - O proprietário ${proprietarioId} não possue serviço registrados para seus animais.
+2022-06-07T15:02:10.334Z [petshop-api] error GET  - O proprietário informado não possue serviço registrados para seus animais.
+2022-06-07T15:02:15.459Z [petshop-api] info GET /servicos
+2022-06-07T15:02:22.114Z [petshop-api] error GET  - O proprietário informado não possue serviço registrados para seus animais.
+2022-06-07T17:19:06.569Z [petshop-api] info GET /servicos
+2022-06-07T17:23:29.083Z [petshop-api] error GET  - proprietarios is not associated to servicos!
+2022-06-07T17:24:49.403Z [petshop-api] error GET  - proprietarios is not associated to servicos!
+2022-06-07T17:25:22.409Z [petshop-api] info GET /servicos
+2022-06-07T17:27:13.382Z [petshop-api] error GET  - column animai.proprietarioId does not exist
+2022-06-07T17:27:21.279Z [petshop-api] info GET /servicos
+2022-06-07T17:27:39.803Z [petshop-api] error GET  - column animai.proprietarioId does not exist
+2022-06-07T17:27:59.699Z [petshop-api] info GET /servicos
+2022-06-07T17:29:05.262Z [petshop-api] error GET  - proprietarios is not associated to servicos!
+2022-06-07T17:29:58.052Z [petshop-api] info GET /servicos
+2022-06-07T17:31:32.384Z [petshop-api] info GET /servicos
+2022-06-07T17:32:33.080Z [petshop-api] info GET /proprietario
+2022-06-07T17:32:48.951Z [petshop-api] info GET /animais
+2022-06-07T19:03:16.164Z [petshop-api] error POST  - Há campos obrigatórios não preenchidos
+2022-06-07T19:04:48.387Z [petshop-api] error POST  - loggers.post is not a function
+2022-06-07T19:29:48.934Z [petshop-api] error PUT  - err is not a constructor
+2022-06-07T19:35:39.230Z [petshop-api] error PUT  - Unexpected token O in JSON at position 12
+2022-06-07T19:36:32.966Z [petshop-api] error PUT  - Unexpected token O in JSON at position 12
+2022-06-07T19:37:16.628Z [petshop-api] error PUT  - err is not a constructor
+2022-06-07T19:51:34.792Z [petshop-api] error GET  - post is not defined
+2022-06-07T19:56:45.067Z [petshop-api] info GET /post
+2022-06-07T19:57:18.418Z [petshop-api] info GET /post
+2022-06-07T19:58:02.081Z [petshop-api] info GET /post
+2022-06-07T19:58:14.494Z [petshop-api] info GET /post
+2022-06-07T20:07:17.763Z [petshop-api] info GET /post
+2022-06-07T20:07:21.674Z [petshop-api] info GET /post
+2022-06-07T20:08:26.742Z [petshop-api] info GET /post
+2022-06-07T20:14:09.638Z [petshop-api] error GET  - loggers.info is not a function
+2022-06-07T20:15:24.596Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T20:16:25.179Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T20:19:55.574Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T20:21:01.749Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T20:21:18.827Z [petshop-api] error PUT  - err is not a constructor
+2022-06-07T20:21:35.349Z [petshop-api] error GET  - loggers.info is not a function
+2022-06-07T20:24:09.180Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T20:30:07.982Z [petshop-api] error GET  - loggers.info is not a function
+2022-06-07T20:35:58.139Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T20:41:27.605Z [petshop-api] error PUT  - Há campos obrigatórios não preenchidos
+2022-06-07T20:50:29.645Z [petshop-api] info GET /proprietario
+2022-06-07T20:50:34.251Z [petshop-api] info GET /animais
+2022-06-07T20:50:39.982Z [petshop-api] info GET /servicos
+2022-06-07T21:06:38.566Z [petshop-api] info GET /servicos
+2022-06-07T21:09:15.458Z [petshop-api] info GET /servicos
+2022-06-07T21:10:57.434Z [petshop-api] info POST /servico - {"servicoId":16,"descricao":"Consulta","valor":200,"animal_id":27}
+2022-06-07T21:11:35.625Z [petshop-api] info GET /servicos
+2022-06-07T21:12:25.906Z [petshop-api] info GET /servicos
+2022-06-07T21:13:30.661Z [petshop-api] info GET /servico
+2022-06-07T21:14:27.861Z [petshop-api] info GET /servicos
+2022-06-07T21:15:35.757Z [petshop-api] info GET /animal
+2022-06-07T21:15:53.778Z [petshop-api] info GET /animais
+2022-06-07T21:16:55.231Z [petshop-api] info GET /proprietario
+2022-06-07T21:17:54.612Z [petshop-api] info GET /servico
+2022-06-07T21:18:36.183Z [petshop-api] info GET /animal
+2022-06-07T21:19:47.356Z [petshop-api] info GET /servicos
+2022-06-07T21:21:00.775Z [petshop-api] error GET  - O proprietário informado não possue serviço registrados para seus animais.

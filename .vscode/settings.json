@@ -1,0 +1,10 @@
+{
+  "explorer.decorations.colors": true,
+  "workbench.activityBar.iconClickBehavior": "toggle",
+  "workbench.activityBar.visible": true,
+  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+  "workbench.preferredDarkColorTheme": "GitHub Dark Colorblind (Beta)",
+  "workbench.preferredHighContrastColorTheme": "GitHub Dark Colorblind (Beta)",
+  "workbench.preferredHighContrastLightColorTheme": "GitHub Dark Colorblind (Beta)",
+  "workbench.preferredLightColorTheme": "GitHub Dark Colorblind (Beta)"
+}
